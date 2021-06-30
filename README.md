@@ -3,7 +3,7 @@
 Python is the first language I will learn
 
 ## Sources
-- [Clean Code - Uncle Bob series](https://www.youtube.com/watch?v=7EmboKQH8lM)
+- [ ] [Clean Code - Uncle Bob series](https://www.youtube.com/watch?v=7EmboKQH8lM)
 - [Anvil - Base Course](https://training.talkpython.fm/courses/details/anvil-web-apps-with-just-python)
 - [Pandas Basics Video](https://youtu.be/vmEHCJofslg)
 - [Matplotlib Basics Video](https://www.youtube.com/watch?v=DAQNHzOcO5A)

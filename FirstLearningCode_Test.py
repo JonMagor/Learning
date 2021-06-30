@@ -1,8 +1,8 @@
-def test_function_saying_hello():
-    from FirstLearningCode import saying_hello
-    if saying_hello() == 'Hello world!':
-        print(f'OK! Function "saying_hello" configured for "{saying_hello()}".')
+def test_function_return_helloworld():
+    from FirstLearningCode import return_helloworld
+    if return_helloworld() == 'Hello world!':
+        print(f'OK! Function "return_helloworld" configured for "{return_helloworld()}".')
     else:
-        print(f'NOT OK! Function "saying_hello" not defined for "Hello world!".\n--------It is defined for "{saying_hello()}".')
+        print(f'NOT OK! Function "return_helloworld" not defined for "Hello world!".\n--------It is defined for "{return_helloworld()}".')
 
-test_function_saying_hello()
+test_function_return_helloworld()

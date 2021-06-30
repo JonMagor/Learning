@@ -13,6 +13,10 @@
 
 
 # Notes
+Code should be written as a good prose
+
+## Comments
+- Use comments only when you fail to write the code in a self-explanatory way
 
 ## Testing
 - create test that fails when code does not exist
